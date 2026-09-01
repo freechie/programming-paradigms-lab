@@ -1,1 +1,9 @@
 .DS_Store
+
+# Local teaching notes
+GUIDE.md
+MISSION.md
+NOTES.md
+RESOURCES.md
+lessons/
+docs/pause-c-matrix.md
